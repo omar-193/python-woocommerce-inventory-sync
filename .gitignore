@@ -1,0 +1,15 @@
+.env
+__pycache__/
+**/__pycache__/
+**pycache**/
+*.py[cod]
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.log
+stock_cache.json
+product_map.json
+data/product_map.json
+data/stock_cache.json
+sync_log.txt
